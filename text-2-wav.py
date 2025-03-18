@@ -9,10 +9,9 @@ LJSpeech and Thorsten models.
 Installation:
 1. Make venv with command python -m venv venv
 2. Activate it source venv/bin/activate
-3. Install torch with pip install torch
-4. pip install Cython
-5. pip install torch numpy soundfile
-6. pip install nemo_toolkit
+3. pip install Cython
+4. pip install torch numpy soundfile
+5. pip install nemo_toolkit
 
 Note!
 If you want to try the actual multi-speaker model, you might need to:
