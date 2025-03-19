@@ -2,7 +2,7 @@
 # Record your voice (Audacity etc) 5-30 minutes
 # Speak naturally, make sure no bakcground noise
 # Sepak at least:
-# 	"The quick brown fox jumps over the lazy dog."
+# 	"The quick brown fox jumps over the lazy dog 1234567890 times."
 # 	"She sells seashells by the seashore."
 #	"How now, brown cow?"
 # More is better, read books from public domain books https://www.gutenberg.org/
