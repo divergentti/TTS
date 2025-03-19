@@ -11,8 +11,7 @@
 # In this example input is TTSJari.vaw
 # Note: not all models support speaker_wav!
 
-
-tts --text "This is my cloned voice speaking." \
+tts --text "$(cat text_to_be_spoken.txt)" \
     --model_name "tts_models/multilingual/multi-dataset/xtts_v2" \
     --use_cuda \
     --speaker_wav "TTSJari.wav" \
